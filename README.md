@@ -36,12 +36,6 @@ terraform destroy
 
 “Hello from Shreya’s Terraform EC2!” 🎉
 
-### 📸 Website Output Screenshots
-
-![Output Screenshot 1]
-![Output Screenshot 2]
-
-
 
 📘 Resources Created
 

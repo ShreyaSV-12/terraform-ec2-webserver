@@ -38,8 +38,8 @@ terraform destroy
 
 ### 📸 Website Output Screenshots
 
-![Output Screenshot 1]()
-![Output Screenshot 2](PASTE-LINK-2-HERE)
+![Output Screenshot 1]
+![Output Screenshot 2]
 
 
 
@@ -54,9 +54,13 @@ Automated Apache installation
 📌 Key Learnings
 
 ✔ Infrastructure as Code (IaC)
+
 ✔ Cloud networking fundamentals
+
 ✔ IAM roles & access credentials
+
 ✔ Deployment automation
+
 ✔ Debugging AWS permissions & region issues
 
 🧹 Cleaning Up
@@ -67,18 +71,26 @@ Automated Apache installation
 
 
 ⭐ Resume Points
+
 • Automated AWS infrastructure using Terraform (IaC) to deploy EC2-based web server.
+
 • Configured secure networking & automated Apache installation through user-data script.
+
 • Delivered fully operational public website using zero manual console configuration.
 
 🚀 Future Enhancements
+
 • Add Load Balancer + Auto Scaling Group
+
 • Variable/Modules implementation
+
 • CI/CD Terraform pipeline
 
 
 👩‍💻 Author
 
 Shreya S V
+
 Cloud & DevOps Engineer Aspirant ☁️✨
+
 GitHub: https://github.com/ShreyaSV-12

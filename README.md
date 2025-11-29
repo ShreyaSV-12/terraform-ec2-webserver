@@ -36,6 +36,16 @@ terraform destroy
 
 “Hello from Shreya’s Terraform EC2!” 🎉
 
+<img width="1920" height="1080" alt="Output1" src="https://github.com/user-attachments/assets/c4ff136c-d430-4a04-a2c6-8ea90341df24" />
+<img width="1920" height="1080" alt="Output2" src="https://github.com/user-attachments/assets/641fed87-8802-4e39-a19c-86b8b2d47035" />
+
+
+
+
+
+
+
+
 
 📘 Resources Created
 
